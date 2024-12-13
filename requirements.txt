@@ -1,0 +1,4 @@
+aiohttp
+annoy
+numpy
+uvloop
